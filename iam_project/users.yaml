@@ -1,0 +1,8 @@
+users:
+  - username: person1
+    role: admin
+  - username: person2
+    role: readonly
+  - username: person3
+    role: ec2 
+
